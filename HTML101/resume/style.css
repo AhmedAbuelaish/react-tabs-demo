@@ -1,0 +1,15 @@
+
+body{
+    border: 5px solid rgb(124, 124, 124);
+    padding: 20px;
+    margin: auto;
+    width: 20%;
+    text-align: center;
+    background-image: linear-gradient( rgb(216, 216, 216),white)
+}
+#badge{
+        border-radius: 25px;
+        width: 10px;
+        height: 10px; 
+    }
+}
